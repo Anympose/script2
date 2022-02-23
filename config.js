@@ -21,7 +21,7 @@ global.APIs = { // API Prefix
   lolhum: 'https://api.lolhuman.xyz',
   fxc7: 'https://fxc7-api.herokuapp.com',
   bx: 'https://bx-hunter.herokuapp.com',
-  Iman: 'https://hardianto-chan.herokuapp.com',
+  Iman: 'https://dashboard.heroku.com/apps',
   
 }
 global.APIKeys = { // APIKey nya disini
